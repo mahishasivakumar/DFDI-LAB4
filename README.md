@@ -90,7 +90,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   •	In the left panel, navigate to File Views → Deleted Files.
   
   •	Locate your deleted images.
-  ![image](https://github.com/user-attachments/assets/3a879359-632e-4559-80ca-0ed5c45917b9)
+  ![image](https://github.com/user-attachments/assets/7bbe576c-fac3-45cf-a726-4c354304bece)
+  
 
 
   •	Right-click an image → Click Extract File.
@@ -98,7 +99,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   •	Choose a folder for saving the recovered files (e.g., C:\image_recovery).
   
   •	The deleted images are now restored!
-  ![image](https://github.com/user-attachments/assets/7bbe576c-fac3-45cf-a726-4c354304bece)
+  ![image](https://github.com/user-attachments/assets/3a879359-632e-4559-80ca-0ed5c45917b9)
+  
 
 
 ## Removing the Disk Partition (Optional Cleanup)
