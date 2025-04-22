@@ -15,8 +15,8 @@ This experiment aims to demonstrate:
   ●	Hardware: PCs
 
 ```
-Register Number:212222040121
-Name: Praveen V
+Register Number:212222040095
+Name: Mahisha S
 ```
 
 ## DESIGN STEPS:
